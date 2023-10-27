@@ -14,6 +14,8 @@ console.log(calc(4, 4));
 console.log(calc(5, 4));
 console.log(calc(10, 10));
 
+
+
 meuNome("João");
 meuNome("Carlos");
 teste();

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card{
+    height: 150px;
+    background: rgb(32, 43, 80);
+    color: #fff;
+    text-align: center;
+    line-height: 150px;
+    align-items: center;
+}
+
+.botao{
+    padding: 10px;
+    background: #1f69a9;
+    color: #fff;
+    margin: 10px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.corTirarDiv{
+    padding: 10px;
+    background: green;
+    color: #fff;
+    margin: 10px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
